@@ -1,0 +1,386 @@
+{
+  "VORSPEISEN": [
+    {
+      "name": "Classic Salat",
+      "description": "Salat der Saison | Tomaten | Gurken | Zwiebeln | Hausdressing",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/salat.webp",
+      "priceInEuro": [
+        {
+          "value": 6
+        },
+        {
+          "value": 11,
+          "description": "2 Personen"
+        }
+      ]
+    },
+    {
+      "name": "Rucola-Salat",
+      "description": "Rucola | Datteltomaten | Parmesan | Balsamico | Olivenöl",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/salat.webp",
+      "priceInEuro": [
+        {
+          "value": 8.5
+        },
+        {
+          "value": 15,
+          "description": "2 Personen"
+        }
+      ]
+    },
+    {
+      "name": "Et.Can. Salat",
+      "description": "",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/salat.webp",
+      "priceInEuro": [
+        {
+          "value": 9.5
+        },
+        {
+          "value": 17,
+          "description": "2 Personen"
+        }
+      ]
+    },
+    {
+      "name": "Beef Sushi",
+      "description": "Rinderfilet | Sushi Reis | Avocadocreme | Kartoffelsticks",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/salat.webp",
+      "priceInEuro": [
+        {
+          "value": 12,
+          "description": "Et.Can. Style"
+        }
+      ]
+    },
+    {
+      "name": "Carpaccio",
+      "description": "Rinderfilet | Pinienkerne | Rucola | Parmesan | Olivenöl | Balsamico",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/salat.webp",
+      "priceInEuro": [
+        {
+          "value": 15
+        }
+      ]
+    },
+    {
+      "name": "Burrata auf Tomatenchutney",
+      "description": "Büffelmozzarella | Tomaten | Zwiebeln | Basilikum",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/salat.webp",
+      "priceInEuro": [
+        {
+          "value": 12
+        }
+      ]
+    },
+    {
+      "name": "Meze Mix",
+      "description": "3 verschiedene Meze-Sorten",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/salat.webp",
+      "priceInEuro": [
+        {
+          "value": 8
+        }
+      ]
+    },
+    {
+      "name": "Gegrillte Peperoni",
+      "description": "",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/salat.webp",
+      "priceInEuro": [
+        {
+          "value": 4
+        }
+      ]
+    }
+  ],
+  "BURGER": [
+    {
+      "name": "The Classic",
+      "description": "gereifter Cheddar | Salat | Tomaten | Gurke | rote Zwiebeln | Classic-Sauce",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/burger.webp",
+      "priceInEuro": [
+        {
+          "value": 14
+        }
+      ]
+    },
+    {
+      "name": "Chilli-Cheese",
+      "description": "",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/salat.webp",
+      "priceInEuro": [
+        {
+          "value": 15
+        }
+      ]
+    },
+    {
+      "name": "Barbecue",
+      "description": "Gereifter Cheddar | Salat | geschmälzte Zwiebeln | Zwiebeln | Barbecue-Sauce",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/salat.webp",
+      "priceInEuro": [
+        {
+          "value": 14
+        }
+      ]
+    },
+    {
+      "name": "El Gaucho",
+      "description": "Gereifter Cheddar | Salat | Tomaten | rote Zwiebeln | Jalapenos | Avocadocreme | Salsa-Sauce",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/salat.webp",
+      "priceInEuro": [
+        {
+          "value": 14
+        }
+      ]
+    },
+    {
+      "name": "Greek",
+      "description": "Schafskäse | Salat | Spitzpaprika | rote Zwiebeln | Oliven | Tzatziki",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/salat.webp",
+      "priceInEuro": [
+        {
+          "value": 15
+        }
+      ]
+    },
+    {
+      "name": "Prime",
+      "description": "gereifter Cheddar | Salat | Mayonnaise | Trüffel-Öl",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/salat.webp",
+      "priceInEuro": [
+        {
+          "value": 15
+        }
+      ]
+    }
+  ],
+  "FLEISCH": [
+    {
+      "name": "Roastbeef",
+      "description": "300 Gramm",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/salat.webp",
+      "priceInEuro": [
+        {
+          "value": 30
+        }
+      ]
+    },
+    {
+      "name": "Rib Eye",
+      "description": "300 Gramm",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/steak.webp",
+      "priceInEuro": [
+        {
+          "value": 30
+        }
+      ]
+    },
+    {
+      "name": "Filet",
+      "description": "230 Gramm | 300 Gramm",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/salat.webp",
+      "priceInEuro": [
+        {
+          "value": 29
+        },
+        {
+          "value": 35
+        }
+      ]
+    },
+    {
+      "name": "Filet – Et.Can. Style",
+      "description": "",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/salat.webp",
+      "priceInEuro": [
+        {
+          "value": 80,
+          "description": "2 Pers. – inkl. 2 Beilagen"
+        },
+        {
+          "value": 140,
+          "description": "3 bis 4 Pers. – inkl. 3 Beilagen"
+        }
+      ]
+    },
+    {
+      "name": "Helal Filet",
+      "description": "230 Gramm I 300 Gramm",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/salat.webp",
+      "priceInEuro": [
+        {
+          "value": 29
+        },
+        {
+          "value": 35
+        }
+      ]
+    },
+    {
+      "name": "Filetto a la Roma",
+      "description": "Rucola I Parmesan I Zitrone I Balsamico",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/salat.webp",
+      "priceInEuro": [
+        {
+          "value": 28
+        }
+      ]
+    },
+    {
+      "name": "Hüftsteak",
+      "description": "300 Gramm",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/salat.webp",
+      "priceInEuro": [
+        {
+          "value": 24
+        }
+      ]
+    },
+    {
+      "name": "Köfte",
+      "description": "Ostanatolische Frikadellen nach Mama’s traditionellem Rezept",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/salat.webp",
+      "priceInEuro": [
+        {
+          "value": 21
+        }
+      ]
+    },
+    {
+      "name": "Hähnchensteak",
+      "description": "300 Gramm",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/salat.webp",
+      "priceInEuro": [
+        {
+          "value": 19
+        }
+      ]
+    }
+  ],
+  "BEILAGEN": [
+    {
+      "name": "Steakhouse Fries",
+      "description": "",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/salat.webp",
+      "priceInEuro": [
+        {
+          "value": 4
+        }
+      ]
+    },
+    {
+      "name": "Trüffel-Parmesan-Fries",
+      "description": "",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/salat.webp",
+      "priceInEuro": [
+        {
+          "value": 6
+        }
+      ]
+    },
+    {
+      "name": "Süßkartoffelfries",
+      "description": "",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/salat.webp",
+      "priceInEuro": [
+        {
+          "value": 6
+        }
+      ]
+    },
+    {
+      "name": "Grillgemüse",
+      "description": "",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/salat.webp",
+      "priceInEuro": [
+        {
+          "value": 4
+        }
+      ]
+    },
+    {
+      "name": "Orientalischer Bauernsalat",
+      "description": "",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/salat.webp",
+      "priceInEuro": [
+        {
+          "value": 4
+        }
+      ]
+    },
+    {
+      "name": "Bulgursalat",
+      "description": "",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/salat.webp",
+      "priceInEuro": [
+        {
+          "value": 4
+        }
+      ]
+    }
+  ],
+  "DESSERT": [
+    {
+      "name": "Schokosouffle",
+      "description": "Schokotörtchen mit flüssigem Kern, dazu Vanilleeis",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/salat.webp",
+      "priceInEuro": [
+        {
+          "value": 7
+        }
+      ]
+    },
+    {
+      "name": "Katmer",
+      "description": "anatolische Pistazien-Schichtsahnetasche garniert mit Vanilleeis",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/salat.webp",
+      "priceInEuro": [
+        {
+          "value": 7
+        }
+      ]
+    },
+    {
+      "name": "Affogato",
+      "description": "Vanilleeis mit Espresso",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/salat.webp",
+      "priceInEuro": [
+        {
+          "value": 4
+        }
+      ]
+    },
+    {
+      "name": "Baklava (Havuc Dilimi)",
+      "description": "premium Blätterteig garniert mit Pistazien, dazu Vanilleeis (so lange der Vorrat reicht)",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/salat.webp",
+      "priceInEuro": [
+        {
+          "value": 10
+        }
+      ]
+    },
+    {
+      "name": "Künefe",
+      "description": "warme Süßspeise mit Mozzarellakern, ummantelt mit Kadayif-Teigfäden und garniert mit Vanilleeis",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/salat.webp",
+      "priceInEuro": [
+        {
+          "value": 9
+        }
+      ]
+    },
+    {
+      "name": "Cheesecake",
+      "description": "runder Premium-Cheesecake auf knusprigem Streuselboden garniert mit Früchten",
+      "image": "https://restaurant-system-bucket.s3.eu-central-1.amazonaws.com/public/salat.webp",
+      "priceInEuro": [
+        {
+          "value": 7
+        }
+      ]
+    }
+  ]
+}
